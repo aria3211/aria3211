@@ -61,6 +61,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aria3211&theme=merko&card_width=497)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aria3211&theme=merko&card_width=497)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aria3211&layout=compact&theme=merko&card)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aria3211&layout=compact&theme=merko&card)]()
