@@ -27,20 +27,33 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="500" height="300 overflow=hidden" />
 </div>
 
-<!--
-**aria3211/aria3211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-Here are some ideas to get you started:
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on some traning website like GeeksforGeeks , Github and read tech articles or sometimes try some new and trend technology .
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-aria3211-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"Django" alt="Django" "/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg"RabbitMq" alt="RabbitMq" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+</div>
