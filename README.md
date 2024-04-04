@@ -39,7 +39,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on some traning website like GeeksforGeeks , Github and read tech articles or sometimes try some new and trend technology .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-aria3211-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AriaShahbazi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aria-shahbazi-07a87a204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK80Ft4%2FxSj2qxD0hU5YvLA%3D%3D)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
