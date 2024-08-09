@@ -41,6 +41,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AriaShahbazi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aria-shahbazi-07a87a204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK80Ft4%2FxSj2qxD0hU5YvLA%3D%3D)
 
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -59,6 +60,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
+
+
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110537772/275194692-6c1737a7-bab0-44a8-9074-de6d66c6bb85.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240809T183705Z&X-Amz-Expires=300&X-Amz-Signature=2dca38100aa0e4d1d1b7efc08c581448ff158ed7af01d8698c556188d01f87a4&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=520851508"/>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aria3211&theme=merko&card_width=497)]()
